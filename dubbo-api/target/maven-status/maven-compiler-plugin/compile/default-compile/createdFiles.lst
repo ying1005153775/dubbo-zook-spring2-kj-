@@ -1,0 +1,3 @@
+com\wzy\dubbo\api\UserService.class
+com\wzy\dubbo\api\UserApi.class
+com\wzy\bean\UserInfo.class
